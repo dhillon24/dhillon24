@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sukhbir Dhillon
 - 👀 I’m interested in deep learning and photogrammetry based computer vision projects 
 - 🌱 I’m currently learning mobile app development
-- 💞️ I’m looking to collaborate on computer vision projects
+- 💞️ I’m looking to collaborate on open source computer vision projects
 - 📫 How to reach me: sukhbir24@gmail.com
 
 <!---
