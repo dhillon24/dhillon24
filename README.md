@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning mobile app development, web development and distributed computing
 - 💞️ I’m looking to collaborate on open source computer vision, data mining and natural language processing projects
 - 📫 How to reach me: sukhbir24@gmail.com
+- 👨‍💻 My previous work ![demos](https://sites.google.com/view/sukhbir-dhillon/work)
+
+
 
 <!---
 dhillon24/dhillon24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
