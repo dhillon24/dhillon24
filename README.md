@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sukhbir Dhillon
-- 👀 I’m interested in deep learning and machine learning based commercial applications 
-- 🌱 I’m currently learning mobile app development, web development and distributed computing
-- 💞️ I’m looking to collaborate on open source deep learning projects
+- 👀 I’m interested in deep learning based applications using computer vision and natural language processing 
+- 🌱 I’m currently learning web development and mobile app development
+- 💞️ I’m looking to collaborate on open source machine learning projects
 - 📫 How to reach me: sukhbir24@gmail.com
 - 👨‍💻 My previous work [demos](https://sites.google.com/view/sukhbir-dhillon/work)
 
